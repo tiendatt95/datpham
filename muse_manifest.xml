@@ -1,0 +1,51 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haha.com" resolutions="1x" timestamp="1587904579036">
+  <folder name="css">
+    <file name="site_global.css" crc="4090704455"/>
+    <file name="master_a-master.css" crc="3771936504" ref="price-list:portfolio:index:our-team:about-me:contact"/>
+    <file name="price-list.css" crc="3905847779" ref="price-list"/>
+    <file name="portfolio.css" crc="3969188930" ref="portfolio"/>
+    <file name="index.css" crc="143779410" ref="index"/>
+    <file name="our-team.css" crc="232931802" ref="our-team"/>
+    <file name="about-me.css" crc="510276753" ref="about-me"/>
+    <file name="contact.css" crc="217455960" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u379-7.png" crc="3816308205" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u843-4.png" crc="4074835141" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u726-4.png" crc="232678813" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u822-4.png" crc="411464022" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u816-4.png" crc="4132676363" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u825-4.png" crc="4070322756" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u819-4.png" crc="98755659" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="nino-yang-doigz9_qmfi-unsplash.jpg" crc="4070534559" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1448-4.png" crc="106853350" ref="index"/>
+    <file name="u1443-11.png" crc="4206797274" ref="index"/>
+    <file name="u1483-4.png" crc="3782468165" ref="index"/>
+    <file name="u1486-4.png" crc="3782468165" ref="index"/>
+    <file name="u1489-4.png" crc="3782468165" ref="index"/>
+    <file name="u1492-4.png" crc="3782468165" ref="index"/>
+    <file name="u1504-4.png" crc="3782468165" ref="index"/>
+    <file name="u1498-4.png" crc="3782468165" ref="index"/>
+    <file name="u1501-4.png" crc="3782468165" ref="index"/>
+    <file name="u1495-4.png" crc="3782468165" ref="index"/>
+    <file name="u1385-6.png" crc="422063346" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+    <file name="u1390-6.png" crc="422063346" ref="index:about-me:portfolio:price-list:our-team:contact"/>
+  </folder>
+  <file name="index.html" crc="242119427" seo="true" mt="1570870784641" redirect="true"/>
+  <file name="about-me.html" crc="4000245681" seo="true" mt="1570870675246" redirect="true"/>
+  <file name="portfolio.html" crc="3804856250" seo="true" mt="1570870675246" redirect="true"/>
+  <file name="price-list.html" crc="3907141403" seo="true" mt="1570870675246" redirect="true"/>
+  <file name="our-team.html" crc="42921706" seo="true" mt="1570870675246" redirect="true"/>
+  <file name="contact.html" crc="3768645321" seo="true" mt="1570870675246" redirect="true"/>
+</manifest>
